@@ -1,3 +1,3 @@
 
-This repository is used to store my work for my thesis.
+This repository is used to store my thesis work.
 # MSPA_Thesis
