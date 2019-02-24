@@ -1,5 +1,5 @@
 
-This repository is used to store the work for my first MSPA thesis topic. 
+This repository is used to store the work for my first MSPA thesis topic
 
 The purpose of this research paper is to develop a model that analyzes public companies’ quarterly reports to understand the company’s management economic outlook to predict economic trends over the next quarter. Correctly predicting the direction of the economy is difficult due to the multitude of factors that are constantly changing. Speculation from large economic events can create bubbles where prices are drastically overinflated and are not sustainable, which ultimately forces a crash where the Gross Domestic Product (GDP) plummets.
 
