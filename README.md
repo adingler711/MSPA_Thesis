@@ -1,3 +1,6 @@
 
-This repository is used to store my thesis work.
-# MSPA_Thesis
+This repository is used to store the work for my first MSPA thesis topic. 
+
+The purpose of this research paper is to develop a model that analyzes public companies’ quarterly reports to understand the company’s management economic outlook to predict economic trends over the next quarter. Correctly predicting the direction of the economy is difficult due to the multitude of factors that are constantly changing. Speculation from large economic events can create bubbles where prices are drastically overinflated and are not sustainable, which ultimately forces a crash where the Gross Domestic Product (GDP) plummets.
+
+A great starting place to test the concept is the housing market sector, since it is not heavily impacted by other countries and has a major economic event. To accurately compile a holistic picture of the housing sector, both numerical and text data will be collected from multiple data sources. This includes quarterly reports from sec.gov using the SEC Edgar API that scrapes the sec.gov and returns the filings. To better understand each company’s forward-looking projections, the text transcripts from quarterly reports will be processed to gauge management sentiment. Other supplemental data sources include analyst reports from seekingalpha.com, Yahoo and Google finance. GDP should be used to compare the movement of the economy, but instead housing market sector specific indicators will be used to benchmark the movement of the housing market. Two of the potential sector indicators are Home-price index and yield on 10-Year Treasury Bond.
